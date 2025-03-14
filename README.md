@@ -1,3 +1,1 @@
-This is visible in Readme.md
-Apple and Pineapple
-Dmart and Reliance Smart
+This repository is created to study GitHub as a fresher.
